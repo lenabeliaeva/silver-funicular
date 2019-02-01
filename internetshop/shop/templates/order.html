@@ -1,0 +1,118 @@
+{% load static %}
+{% load crispy_forms_filters %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Shop Homepage - Start Bootstrap Template</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href='{% static "css/bootstrap.min.css" %}' rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href='{% static "css/shop-homepage.css" %}' rel="stylesheet">
+
+
+</head>
+
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="{% url 'base' %}">Всё в дом</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <span class="sr-only">(current)</span>
+                </li>
+                {% if not request.get_full_path == '/' %}
+                    <div class="dropdown">
+                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Категории
+                        </a>
+
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            {% for category in categories %}
+                                <a class="dropdown-item" href="{{ category.get_absolute_url }}">{{ category.name }}</a>
+                            {% endfor %}
+                        </div>
+                    </div>
+                {% endif %}
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href='{% url "cart" %}'>Корзина <span class='badge'
+                                                             id='cart_count'>{% if not request.session.total %}
+                    0 {% else %} {{ request.session.total }} {% endif %}</span></a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+{% block content %}
+    <h3 class='text-center'>Оформление заказа</h3>
+    <hr>
+    <form action='{% url "make_order" %}' method="POST">
+        {% csrf_token %}
+        <div class='col-sm-4'>
+            {{ form.name|as_crispy_field }}
+        </div>
+        <div class='col-sm-4'>
+            {{ form.last_name|as_crispy_field }}
+        </div>
+        <div class='col-sm-4'>
+            {{ form.phone|as_crispy_field }}
+        </div>
+        {{ form.buying_type|as_crispy_field }}
+        {{ form.address|as_crispy_field }}
+        {{ form.date|as_crispy_field }}
+        <input type='submit' class='btn btn-success' value='Оформить заказ'>
+    </form>
+    <script src="{% static 'js/jquery.js' %}"></script>
+    <script>
+        $(document).ready(function () {
+            $('#div_id_address').css('display', 'none')
+            $('#id_buying_type').on('click', function () {
+                buying_type = $(this).val()
+                if (buying_type == 'delivery') {
+                    $('#div_id_address').css('display', 'block')
+                } else {
+                    $('#div_id_address').css('display', 'none')
+                }
+            })
+            $('#id_date_month').css('width', '100px')
+            $('#id_date_month').css('display', 'inline')
+            $('#id_date_year').css('width', '100px')
+            $('#id_date_year').css('display', 'inline')
+            $('#id_date_day').css('width', '70px')
+            $('#id_date_day').css('display', 'inline')
+        })
+    </script>
+{% endblock content %}
+
+<!-- Footer -->
+<footer class="py-5 bg-dark">
+    <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+    </div>
+    <!-- /.container -->
+</footer>
+
+<!-- Bootstrap core JavaScript -->
+<script src='{% static "js/bootstrap.js" %}'></script>
+<script src='{% static "js/jquery.js" %}'></script>
+
+</body>
+
+</html>
