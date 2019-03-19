@@ -1,7 +1,0 @@
-C:\Users\Елена Беляева\source\repos\third\third\obj\Debug\third.csprojAssemblyReference.cache
-C:\Users\Елена Беляева\source\repos\third\third\obj\Debug\third.csproj.CoreCompileInputs.cache
-C:\Users\Елена Беляева\source\repos\third\third\bin\Debug\third.exe.config
-C:\Users\Елена Беляева\source\repos\third\third\bin\Debug\third.exe
-C:\Users\Елена Беляева\source\repos\third\third\bin\Debug\third.pdb
-C:\Users\Елена Беляева\source\repos\third\third\obj\Debug\third.exe
-C:\Users\Елена Беляева\source\repos\third\third\obj\Debug\third.pdb
