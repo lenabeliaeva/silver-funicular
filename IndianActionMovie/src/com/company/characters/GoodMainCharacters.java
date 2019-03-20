@@ -10,7 +10,7 @@ public class GoodMainCharacters extends Characters implements Artistic, Humorous
 
     private String aim;
 
-    public void setAim(String aim) {
+    public void setAim(String aim){
         this.aim = aim;
     }
 
@@ -20,7 +20,7 @@ public class GoodMainCharacters extends Characters implements Artistic, Humorous
         return aimIsReached;
     }
 
-    private boolean charm = false;
+    private boolean charm = true;
 
     public boolean isCharm() {
         return charm;
@@ -31,7 +31,7 @@ public class GoodMainCharacters extends Characters implements Artistic, Humorous
     }
 
     public void runFrom(Characters enemy) {
-        System.out.println(this.getName() + "убежал от сопернрика");
+        this.setLocation(new Decoration()); //убегает в другое место
     }
 
     public void helpTo(Characters somebody){

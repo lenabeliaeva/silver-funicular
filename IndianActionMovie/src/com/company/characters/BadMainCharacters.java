@@ -1,15 +1,19 @@
 package com.company.characters;
-
-import com.company.decorations.Decoration;
 import com.company.requisite.Requisite;
+import com.company.requisite.weapons.Firearm;
 
 import java.util.ListIterator;
 
 public class BadMainCharacters extends Characters implements Unkillable, Humorous {
 
+    Firearm gun = new Firearm(this, 12);
+
     public void runTo(Characters enemy){
-        System.out.println(this.getName() + "не может догнать главного героя");
-        this.setMood(false);
+        if (enemy instanceof SideCharacters){
+            gun.shootAt(enemy);    //второстепенных героев отрицательный персонаж догнать может
+        } else {
+            this.setMood(false);    //а главного нет, поэтому он расстраивается
+        }
     }
 
     public void deceive(Characters person){
