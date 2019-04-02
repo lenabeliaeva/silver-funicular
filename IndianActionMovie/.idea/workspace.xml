@@ -9,20 +9,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="IndianActionMovie" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Film.java">
+        <entry file="file://$PROJECT_DIR$/src/benchmark/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-              <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="227">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -72,7 +71,6 @@
         <option value="$PROJECT_DIR$/src/com/company/requisite/ColdArm.java" />
         <option value="$PROJECT_DIR$/src/com/company/requisite/weapons/ColdArm.java" />
         <option value="$PROJECT_DIR$/src/com/company/requisite/Transport.java" />
-        <option value="$PROJECT_DIR$/src/com/company/characters/Characters.java" />
         <option value="$PROJECT_DIR$/src/com/company/requisite/transport/Transport.java" />
         <option value="$PROJECT_DIR$/src/com/company/requisite/transport/Plane.java" />
         <option value="$PROJECT_DIR$/src/com/company/requisite/transport/Car.java" />
@@ -82,13 +80,16 @@
         <option value="$PROJECT_DIR$/src/com/company/characters/Hacker.java" />
         <option value="$PROJECT_DIR$/src/com/company/requisite/weapons/Bomb.java" />
         <option value="$PROJECT_DIR$/src/com/company/decorations/Decoration.java" />
+        <option value="$PROJECT_DIR$/src/com/company/characters/BadMainCharacters.java" />
         <option value="$PROJECT_DIR$/src/com/company/Film.java" />
         <option value="$PROJECT_DIR$/src/com/company/characters/GoodMainCharacters.java" />
-        <option value="$PROJECT_DIR$/src/com/company/characters/BadMainCharacters.java" />
+        <option value="$PROJECT_DIR$/src/com/company/characters/Characters.java" />
+        <option value="$PROJECT_DIR$/src/benchmark/Test.java" />
+        <option value="$PROJECT_DIR$/src/benchmark/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -115,37 +116,7 @@
               <item name="IndianActionMovie" type="b2602c69:ProjectViewProjectNode" />
               <item name="IndianActionMovie" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IndianActionMovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IndianActionMovie" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="characters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IndianActionMovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IndianActionMovie" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="requisite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IndianActionMovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IndianActionMovie" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="requisite" type="462c0819:PsiDirectoryNode" />
-              <item name="transport" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IndianActionMovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IndianActionMovie" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="requisite" type="462c0819:PsiDirectoryNode" />
-              <item name="weapons" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -156,6 +127,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553018332418" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -173,9 +146,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="benchmark.Main" />
       <module name="IndianActionMovie" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -198,13 +170,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551989673008</updated>
+      <workItem from="1554112163401" duration="1545000" />
+      <workItem from="1554185612278" duration="4707000" />
+      <workItem from="1554213001089" duration="6102000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12354000" />
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.19676113" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.21295546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -213,7 +192,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5008881" side_tool="true" weight="0.1902834" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.053285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,6 +201,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -230,6 +211,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18461539" />
@@ -258,6 +240,9 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Killable.java" />
@@ -292,16 +277,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/requisite/weapons/ColdArm.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/characters/Hacker.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/requisite/weapons/Bomb.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -352,16 +327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/decorations/Decoration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/characters/SideCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -377,30 +342,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#485#486#0" expanded="true" />
             <element signature="e#522#523#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/characters/GoodMainCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -425,10 +366,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/characters/Characters.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/decorations/Decoration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="76" column="49" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -437,12 +378,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Film.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="204">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
           <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/characters/Characters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/characters/GoodMainCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/benchmark/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/IndianActionMovie/benchmark/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <folding>
+            <element signature="e#0#2787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/benchmark/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>

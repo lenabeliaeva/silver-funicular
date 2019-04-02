@@ -1,6 +1,9 @@
 package com.company;
 
+import com.company.characters.Characters;
 import com.company.decorations.Decoration;
+
+import java.util.LinkedList;
 
 public class Film {
 
@@ -10,7 +13,7 @@ public class Film {
         this.name = name;
     }
 
-    public Decoration[] decoration = new Decoration[10];
+    public LinkedList<Decoration> decoration = new LinkedList<>();
 
-    public Character[] characters = new Character[5];
+    public LinkedList<Characters> characters = new LinkedList<>();
 }

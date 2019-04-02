@@ -20,6 +20,7 @@ public class Characters extends Film {
 
     public void setLocation(Decoration location) {
         this.location = location;
+        decoration.add(location);
     }
 
     public Decoration getLocation() {
@@ -50,10 +51,6 @@ public class Characters extends Film {
 
     public void setMood(boolean mood) {
         this.mood = mood;
-    }
-
-    public boolean getMood() {
-        return mood;
     }
 
     public void pourLiquidNitrogen(Characters enemy) {

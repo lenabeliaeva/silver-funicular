@@ -26,10 +26,6 @@ public class GoodMainCharacters extends Characters implements Artistic, Humorous
         return charm;
     }
 
-    public void setCharm(boolean charm) {
-        this.charm = charm;
-    }
-
     public void runFrom(Characters enemy) {
         this.setLocation(new Decoration()); //убегает в другое место
     }
