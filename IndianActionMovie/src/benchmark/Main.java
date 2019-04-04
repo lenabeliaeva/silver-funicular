@@ -15,37 +15,35 @@ public class Main {
     private static HashMap<Integer, Integer> hashMap = new HashMap<>();
     private static TreeMap<Integer, Integer> treeMap = new TreeMap<>();
 
-    private static long first, last;
-
     private static void collectionTest(Collection<Integer> collection) {
-        first = System.currentTimeMillis();
+        long callTime = System.currentTimeMillis();
         for (int i = 0; i < 1000000; ++i) {
             collection.add(i);
         }
-        last = System.currentTimeMillis();
-        System.out.println("Время добавления = " + (last - first));
-        first = System.currentTimeMillis();
+        callTime = System.currentTimeMillis() - callTime;
+        System.out.println("Время добавления = " + callTime);
+        callTime = System.currentTimeMillis();
         for (int i = 0; i < 1000000; ++i) {
             collection.remove(i);
         }
-        last = System.currentTimeMillis();
-        System.out.println("Время удаления = " + (last - first));
+        callTime = System.currentTimeMillis() - callTime;
+        System.out.println("Время удаления = " + callTime);
     }
 
     private static void mapTest(Map<Integer, Integer> map) {
-        first = System.currentTimeMillis();
+        long callTime = System.currentTimeMillis();
         for (int i = 0; i < 1000000; ++i) {
             map.put(i, 2*i);
         }
-        last = System.currentTimeMillis();
-        System.out.println("Время добавления = " + (last - first));
+        callTime = System.currentTimeMillis() - callTime;
+        System.out.println("Время добавления = " + callTime);
 
-        first = System.currentTimeMillis();
+        callTime = System.currentTimeMillis();
         for (int i = 0; i < 1000000; ++i) {
             map.remove(i);
         }
-        last = System.currentTimeMillis();
-        System.out.println("Время удаления = " + (last - first));
+        callTime = System.currentTimeMillis() - callTime;
+        System.out.println("Время удаления = " + callTime);
     }
 
     public static void main(String[] args) {
