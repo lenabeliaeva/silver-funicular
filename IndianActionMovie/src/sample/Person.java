@@ -62,11 +62,11 @@ public class Person implements FootballManager, FootballManager.Player {
         return allPlayers;
     }
 
-    public void add(Player[] players, Player target){
+    private void add(Player[] players, Player target){
         Player[] anotherArray = new Player[players.length + 1];
         for (int i = 0; i < anotherArray.length - 1; ++i)
-            anotherArray[i] = players[i];   //заполняем новый массив старыми значениями
-        anotherArray[anotherArray.length - 1] = target; //и на последнее место добавляем новый элемент
+            anotherArray[i] = players[i];
+        anotherArray[anotherArray.length - 1] = target;
         players = anotherArray;
     }
 
