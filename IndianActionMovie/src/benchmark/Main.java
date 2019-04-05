@@ -6,14 +6,14 @@ import java.util.*;
 
 public class Main {
 
-    private static ArrayList<Integer> arrayList = new ArrayList<>();
-    private static LinkedList<Integer> linkedList = new LinkedList<>();
+    private static List<Integer> arrayList = new ArrayList<>();
+    private static List<Integer> linkedList = new LinkedList<>();
 
-    private static HashSet<Integer> hashSet = new HashSet<>();
-    private static TreeSet<Integer> treeSet = new TreeSet<>();
+    private static Set<Integer> hashSet = new HashSet<>();
+    private static Set<Integer> treeSet = new TreeSet<>();
 
-    private static HashMap<Integer, Integer> hashMap = new HashMap<>();
-    private static TreeMap<Integer, Integer> treeMap = new TreeMap<>();
+    private static Map<Integer, Integer> hashMap = new HashMap<>();
+    private static Map<Integer, Integer> treeMap = new TreeMap<>();
 
     private static void collectionTest(Collection<Integer> collection) {
         long callTime = System.currentTimeMillis();
