@@ -4,7 +4,7 @@ import com.hierarchy.decorations.Decoration;
 import com.hierarchy.Film;
 import com.hierarchy.requisite.Requisite;
 
-public class Characters extends Film {
+public abstract class Characters extends Film {
 
     private String name;
 
@@ -23,13 +23,13 @@ public class Characters extends Film {
         decoration.add(location);
     }
 
-    public Decoration getLocation() {
+    Decoration getLocation() {
         return location;
     }
 
     private boolean isAlive;
 
-    public boolean getAlive() {
+    boolean getAlive() {
         return isAlive;
     }
 
@@ -39,17 +39,17 @@ public class Characters extends Film {
 
     private boolean isNeedHelp;
 
-    public boolean needsHelp() {
+    boolean needsHelp() {
         return isNeedHelp;
     }
 
-    public void setNeedsHelp(boolean needsHelp) {
+    void setNeedsHelp(boolean needsHelp) {
         isNeedHelp = needsHelp;
     }
 
     private boolean mood;
 
-    public void setMood(boolean mood) {
+    void setMood(boolean mood) {
         this.mood = mood;
     }
 
@@ -70,7 +70,7 @@ public class Characters extends Film {
         isActionGood(true);
     }
 
-    public Characters isActionGood(boolean karma) {
+    private Characters isActionGood(boolean karma) {
         if (karma) return new GoodMainCharacters();
         else return new BadMainCharacters();
     }

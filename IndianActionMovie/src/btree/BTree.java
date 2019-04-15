@@ -1,18 +1,15 @@
 package btree;
 
-class BTree {
+import java.util.LinkedList;
+
+class Node {
 
     private int t;
+    boolean leaf;
     Node root;
-
-    private class Node {
-        boolean leaf;
-        int n;  //количество ключей в узле
-        int[] key = new int[n];  //ключи узла
-        Node[] child;   //указатель на детей
-    }
+    LinkedList<Integer> key = new LinkedList<>();  //ключи узла
+    LinkedList<Node> child = new LinkedList<>();   //указатель на детей
 
     void add(){
-
     }
 }

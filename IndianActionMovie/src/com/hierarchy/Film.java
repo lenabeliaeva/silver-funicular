@@ -5,7 +5,7 @@ import com.hierarchy.decorations.Decoration;
 
 import java.util.LinkedList;
 
-public class Film {
+public abstract class Film {
 
     private String name;
 
@@ -13,7 +13,7 @@ public class Film {
         this.name = name;
     }
 
-    public LinkedList<Decoration> decoration = new LinkedList<>();
+    protected LinkedList<Decoration> decoration = new LinkedList<>();
 
     public LinkedList<Characters> characters = new LinkedList<>();
 }

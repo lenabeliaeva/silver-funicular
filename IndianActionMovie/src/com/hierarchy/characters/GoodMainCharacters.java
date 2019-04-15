@@ -22,12 +22,12 @@ public class GoodMainCharacters extends Characters implements Artistic, Humorous
 
     private boolean charm = true;
 
-    public boolean isCharm() {
+    private boolean isCharm() {
         return charm;
     }
 
-    public void runFrom(Characters enemy) {
-        this.setLocation(new Decoration()); //убегает в другое место
+    void runFrom(Characters enemy) {
+        getLocation().people.add(enemy);//убегает в другое место
     }
 
     public void helpTo(Characters somebody){
