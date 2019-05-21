@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c48093ec-a3fc-4e58-bbe1-902d446bccfc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/kursovaya$artm.coverage" NAME="artm Coverage Results" MODIFIED="1552664744427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/lda_model_gensim.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/preparing_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#46#77#0" expanded="true" />
+                <marker date="1558440200867" expanded="true" signature="431:1017" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/Texts_should_be_prepared/news1.txt" />
+        <option value="$PROJECT_DIR$/venv/Texts_should_be_prepared/news2.txt" />
+        <option value="$PROJECT_DIR$/venv/Texts_should_be_prepared/news3.txt" />
+        <option value="$PROJECT_DIR$/venv/Texts_should_be_prepared/news4.txt" />
+        <option value="$PROJECT_DIR$/venv/Texts_should_be_prepared/news5.txt" />
+        <option value="$PROJECT_DIR$/venv/Texts_should_be_prepared/news6.txt" />
+        <option value="$PROJECT_DIR$/venv/Texts_should_be_prepared/news7.txt" />
+        <option value="$PROJECT_DIR$/venv/Texts_should_be_prepared/news8.txt" />
+        <option value="$PROJECT_DIR$/venv/Texts_should_be_prepared/news9.txt" />
+        <option value="$PROJECT_DIR$/venv/Texts_should_be_prepared/news10.txt" />
+        <option value="$PROJECT_DIR$/venv/lda_model.ipynb" />
+        <option value="$PROJECT_DIR$/venv/Texts_should_be_prepared/lematizing.py" />
+        <option value="$PROJECT_DIR$/venv/lemmatizing.py" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/1.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/2.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/3.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/4.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/5.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/6.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/7.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/8.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/9.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/10.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/11.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/12.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/13.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/14.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/15.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/16.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/17.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/18.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/19.txt" />
+        <option value="$PROJECT_DIR$/venv/Initial_texts/20.txt" />
+        <option value="$PROJECT_DIR$/venv/prepearing_text.py" />
+        <option value="C:/bigartm-master/python/artm/wrapper/__init__.py" />
+        <option value="C:/bigartm-master/python/artm/wrapper/messages_pb2.py" />
+        <option value="$PROJECT_DIR$/venv/lda_model.py" />
+        <option value="$PROJECT_DIR$/venv/prepearing_text_for_lda.py" />
+        <option value="$PROJECT_DIR$/venv/prepared_data.py" />
+        <option value="$PROJECT_DIR$/venv/trying/lda_model_gensim.py" />
+        <option value="$PROJECT_DIR$/venv/sklearn_model.py" />
+        <option value="$PROJECT_DIR$/venv/preparing_data.py" />
+        <option value="$PROJECT_DIR$/venv/ready_data.txt" />
+        <option value="$PROJECT_DIR$/venv/lda_model_gensim.py" />
+        <option value="$PROJECT_DIR$/venv/artm_model.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kursovaya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kursovaya" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kursovaya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kursovaya" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/artm_model.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenab\PycharmProjects\kursovaya\venv\trying" />
+      <recent name="C:\Users\lenab\PycharmProjects\kursovaya\venv" />
+      <recent name="C:\Users\lenab\PycharmProjects\kursovaya" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="lda" type="PythonConfigurationType" factoryName="Python">
+      <module name="kursovaya" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenab\Anaconda3\envs\venv_conda1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lenab\PycharmProjects\kursovaya\venv\trying\artm_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c48093ec-a3fc-4e58-bbe1-902d446bccfc" name="Default Changelist" comment="" />
+      <created>1551546419967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551546419967</updated>
+      <workItem from="1551546450697" duration="1325000" />
+      <workItem from="1551632714674" duration="895000" />
+      <workItem from="1552299929708" duration="59000" />
+      <workItem from="1552654883849" duration="5839000" />
+      <workItem from="1552665393045" duration="21000" />
+      <workItem from="1553941530034" duration="806000" />
+      <workItem from="1554644103645" duration="534000" />
+      <workItem from="1555599016174" duration="1501000" />
+      <workItem from="1555661289210" duration="25000" />
+      <workItem from="1555661440715" duration="112000" />
+      <workItem from="1555759682878" duration="18000" />
+      <workItem from="1555776113950" duration="2312000" />
+      <workItem from="1555791315020" duration="114000" />
+      <workItem from="1555836115585" duration="2666000" />
+      <workItem from="1555838926492" duration="1584000" />
+      <workItem from="1555840675544" duration="276000" />
+      <workItem from="1555840975030" duration="857000" />
+      <workItem from="1555850559148" duration="1635000" />
+      <workItem from="1555852902718" duration="5225000" />
+      <workItem from="1555869749887" duration="6671000" />
+      <workItem from="1555952674834" duration="3542000" />
+      <workItem from="1556024244357" duration="2437000" />
+      <workItem from="1556027375829" duration="907000" />
+      <workItem from="1556028588365" duration="426000" />
+      <workItem from="1556114881293" duration="3217000" />
+      <workItem from="1557513075151" duration="607000" />
+      <workItem from="1557553737204" duration="256000" />
+      <workItem from="1557644411146" duration="20000" />
+      <workItem from="1557644556242" duration="1279000" />
+      <workItem from="1557652784056" duration="443000" />
+      <workItem from="1557681394586" duration="36000" />
+      <workItem from="1557681924566" duration="41000" />
+      <workItem from="1557762448835" duration="1632000" />
+      <workItem from="1557766046520" duration="1547000" />
+      <workItem from="1557897619181" duration="74000" />
+      <workItem from="1558104031817" duration="18000" />
+      <workItem from="1558107865442" duration="217000" />
+      <workItem from="1558194163630" duration="31807000" />
+      <workItem from="1558290378779" duration="145000" />
+      <workItem from="1558426375657" duration="1257000" />
+      <workItem from="1558431855246" duration="484000" />
+      <workItem from="1558438354569" duration="2298000" />
+      <workItem from="1558441080564" duration="5016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90181000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3144705" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28368795" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3280142" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3723404" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3280142" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.585287" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kursovaya$lda.coverage" NAME="lda Coverage Results" MODIFIED="1558445577551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/kursovaya$artm.coverage" NAME="lda Coverage Results" MODIFIED="1555839200190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/bigartm-master/python/artm/__init__.py" />
+    <entry file="file://C:/bigartm-master/python/artm/artm_model.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lemmatizing.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1097" selection-start-column="1097" selection-end-column="1097" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="446" selection-start-line="6" selection-start-column="446" selection-end-line="6" selection-end-column="446" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="220" selection-start-line="12" selection-start-column="220" selection-end-line="12" selection-end-column="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2348" selection-start-column="2348" selection-end-column="2348" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/7.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2748" selection-start-column="2748" selection-end-column="2748" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/8.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1804" selection-start-column="1804" selection-end-column="1804" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/9.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1605" selection-start-column="1605" selection-end-column="1605" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/10.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2240" selection-start-column="2240" selection-end-column="2240" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bag_of_words.json" />
+    <entry file="file://$PROJECT_DIR$/venv/demo_bag_of_words.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/docword.kos.txt.gz" />
+    <entry file="file://$PROJECT_DIR$/venv/English_texts/news1.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/11.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/12.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/13.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="207" selection-start-line="7" selection-start-column="207" selection-end-line="7" selection-end-column="207" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/14.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/15.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/16.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/17.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/18.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/19.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="219" selection-start-line="2" selection-start-column="219" selection-end-line="2" selection-end-column="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Initial_texts/20.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="120" lean-forward="true" selection-start-line="6" selection-start-column="120" selection-end-line="6" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/encodings/cp1251.py" />
+    <entry file="file://$PROJECT_DIR$/venv/prepared_data.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/bag_of_words_news.txt" />
+    <entry file="file://C:/bigartm-master/python/artm/wrapper/__init__.py" />
+    <entry file="file://$USER_HOME$/Downloads/bigartm-0.9.1/bigartm-0.9.1/python/artm/wrapper/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_bigartm-0.8.3.zip/bigartm-0.8.3/python/artm/wrapper/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_bigartm-0.8.3.zip/bigartm-0.8.3/python/artm/wrapper/exceptions.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_bigartm-0.7.4.zip/bigartm-0.7.4/python/artm/wrapper/messages_pb2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/prepearing_text.py" />
+    <entry file="file://C:/bigartm-master/python/artm/wrapper/messages_pb2.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="354" selection-start-line="354" selection-end-line="354" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/trying/prepared_data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/trying/vowpal_wabbit_news.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/joblib/externals/loky/process_executor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="390" selection-start-line="390" selection-end-line="390" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/trying/sklearn_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/BigARTM/bigartm-0.10.0/python/artm/wrapper/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/trying/prepearing_text_for_artm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/texts_713664710.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/trying/data_lemmatized_for_lda.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/topics.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/preparing_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#46#77#0" expanded="true" />
+            <marker date="1558440200867" expanded="true" signature="431:1017" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ready_data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/trying/artm_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lda_model_gensim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
