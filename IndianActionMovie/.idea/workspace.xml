@@ -2,19 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0cbe2b-f8fd-4b24-b4f5-225e21a13775" name="Default Changelist" comment="&quot;collection benchmark&quot;">
-      <change afterPath="$PROJECT_DIR$/src/parsing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/benchmark/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndianActionMovie/benchmark/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/FootballManager$League.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/FootballManager$League.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/FootballManager$Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/FootballManager$Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/FootballManager$Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/FootballManager$Team.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/btree/BTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btree/BTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hierarchy/Film.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hierarchy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/characters/Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hierarchy/characters/Characters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/characters/GoodMainCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hierarchy/characters/GoodMainCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/benchmark/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/btree/BTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/btree/BTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/Film.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/characters/Artistic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/characters/BadMainCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/characters/Characters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/characters/GoodMainCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/characters/Humorous.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/characters/SideCharacters$Types.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/characters/SideCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/characters/Unkillable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/decorations/Decoration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/requisite/Requisite$Conditions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/requisite/Requisite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/requisite/transport/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/requisite/transport/Plane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/requisite/transport/Transport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/requisite/weapons/Bomb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/requisite/weapons/Firearm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/com/hierarchy/requisite/weapons/Weapon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/FootballManager$League.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/FootballManager$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/FootballManager$Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/FootballManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IndianActionMovie/sample/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btree/.idea/btree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btree/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btree/BTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/Film.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/characters/Artistic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/characters/BadMainCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/characters/Characters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/characters/GoodMainCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/characters/Humorous.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/characters/SideCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/characters/Unkillable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/decorations/Decoration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/requisite/Requisite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/requisite/transport/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/requisite/transport/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/requisite/transport/Transport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/requisite/weapons/Bomb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/requisite/weapons/Firearm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hierarchy/requisite/weapons/Weapon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parsing/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/FootballManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/FootballManager.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +72,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/parsing/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="578">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/FootballManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -97,8 +156,6 @@
         <option value="$PROJECT_DIR$/src/com/company/characters/GoodMainCharacters.java" />
         <option value="$PROJECT_DIR$/src/com/company/characters/Characters.java" />
         <option value="$PROJECT_DIR$/src/benchmark/Test.java" />
-        <option value="$PROJECT_DIR$/src/sample/Main.java" />
-        <option value="$PROJECT_DIR$/src/sample/FootballManager.java" />
         <option value="$PROJECT_DIR$/src/benchmark/Main.java" />
         <option value="$PROJECT_DIR$/src/sample/Person.java" />
         <option value="$PROJECT_DIR$/src/com/hierarchy/Film.java" />
@@ -107,6 +164,8 @@
         <option value="$PROJECT_DIR$/src/com/hierarchy/decorations/Decoration.java" />
         <option value="$PROJECT_DIR$/src/com/hierarchy/Main.java" />
         <option value="$PROJECT_DIR$/src/btree/BTree.java" />
+        <option value="$PROJECT_DIR$/src/sample/FootballManager.java" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
       </list>
     </option>
   </component>
@@ -122,8 +181,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,7 +199,7 @@
               <item name="IndianActionMovie" type="b2602c69:ProjectViewProjectNode" />
               <item name="IndianActionMovie" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="parsing" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,7 +212,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553018332418" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/javaCourses" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,18 +262,22 @@
       <workItem from="1554723329557" duration="1286000" />
       <workItem from="1554725454986" duration="3833000" />
       <workItem from="1555062719416" duration="1098000" />
-      <workItem from="1555326909039" duration="1349000" />
+      <workItem from="1555326909039" duration="2380000" />
+      <workItem from="1555598729403" duration="138000" />
+      <workItem from="1555661631556" duration="23000" />
+      <workItem from="1555662011850" duration="20000" />
+      <workItem from="1557328844746" duration="452000" />
+      <workItem from="1557335864894" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48883000" />
+    <option name="totallyTimeSpent" value="50600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.20890689" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.22672065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -286,29 +349,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Killable.java" />
     <entry file="file://$PROJECT_DIR$/../javaCourses/src/com/firstask/Spiral.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/Artistic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/Artistic.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/requisite/Car.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/requisite/Plane.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/Unkillable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/Humorous.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/Unkillable.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/Humorous.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/requisite/weapons/ColdArm.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/characters/Hacker.java" />
     <entry file="file://$PROJECT_DIR$/src/benchmark/Test.java" />
@@ -370,21 +415,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/IdeaProjects/javaCourses/src/com/firstask/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="57" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/FootballManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/IdeaProjects/javaCourses/src/com/firstask/Matrix.java" />
     <entry file="file://$PROJECT_DIR$/src/benchmark/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -403,13 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="267" column="5" lean-forward="true" selection-start-line="267" selection-start-column="5" selection-end-line="267" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="96" column="1" lean-forward="true" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -476,153 +500,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/weapons/Firearm.java">
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/weapons/Firearm.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/transport/Plane.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/transport/Transport.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/transport/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/BadMainCharacters.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/Requisite.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/SideCharacters.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/Characters.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/weapons/Weapon.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/GoodMainCharacters.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/decorations/Decoration.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/weapons/Bomb.java" />
+    <entry file="file://$PROJECT_DIR$/src/btree/BTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/parsing/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/parsing/Parsing.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/Film.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="578">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/transport/Plane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/transport/Transport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/transport/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/sample/FootballManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/BadMainCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/Requisite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/Film.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/SideCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/Characters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/weapons/Weapon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/characters/GoodMainCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/decorations/Decoration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hierarchy/requisite/weapons/Bomb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/btree/BTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parsing/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

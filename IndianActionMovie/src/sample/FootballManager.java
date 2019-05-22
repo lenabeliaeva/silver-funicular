@@ -9,11 +9,11 @@ interface FootballManager {
     }
 
     enum League{
-
+        Premier,
     }
 
     enum Team{
-
+        Barcelona,
     }
 
     void addPlayer(Player player);
