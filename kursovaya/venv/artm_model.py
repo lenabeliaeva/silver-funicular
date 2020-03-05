@@ -15,11 +15,11 @@ def print_measures(model_artm):
 
     print 'Perplexity: {0:.3f}'.format(model_artm.score_tracker['PerplexityScore'].last_value)
 
-    plt.plot(xrange(model_artm.num_phi_updates), model_artm.score_tracker['PerplexityScore'].value, 'r--', linewidth=2)
-    plt.xlabel('Iterations count')
-    plt.ylabel('ARTM perp.')
-    plt.grid(True)
-    plt.show()
+    # plt.plot(xrange(model_artm.num_phi_updates), model_artm.score_tracker['PerplexityScore'].value, 'r--', linewidth=2)
+    # plt.xlabel('Iterations count')
+    # plt.ylabel('ARTM perp.')
+    # plt.grid(True)
+    # plt.show()
 
 
 def print_topics(model_artm):

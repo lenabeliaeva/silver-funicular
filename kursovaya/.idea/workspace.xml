@@ -64,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/artm_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="70" column="39" lean-forward="true" selection-start-line="70" selection-start-column="39" selection-end-line="70" selection-end-column="39" />
+            <state relative-caret-position="-28">
+              <caret line="50" column="40" lean-forward="true" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
               <folding>
                 <element signature="e#46#57#0" expanded="true" />
               </folding>
@@ -91,6 +91,9 @@
       <find>biretix</find>
       <find>on</find>
       <find>my</find>
+      <find>мой</find>
+      <find>очень</find>
+      <find>ул</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,11 +146,11 @@
         <option value="$PROJECT_DIR$/venv/sklearn_model.py" />
         <option value="$PROJECT_DIR$/venv/ready_data.txt" />
         <option value="$PROJECT_DIR$/venv/lda_artm_model.py" />
-        <option value="$PROJECT_DIR$/venv/preparing_data.py" />
-        <option value="$PROJECT_DIR$/venv/trying/prepearing_text_for_artm.py" />
         <option value="$PROJECT_DIR$/venv/topics.json" />
         <option value="$PROJECT_DIR$/venv/vk_batches/dictionary.txt" />
         <option value="$PROJECT_DIR$/venv/artm_model.py" />
+        <option value="$PROJECT_DIR$/venv/trying/prepearing_text_for_artm.py" />
+        <option value="$PROJECT_DIR$/venv/preparing_data.py" />
       </list>
     </option>
   </component>
@@ -163,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,12 +182,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/artm_model.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -212,7 +215,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="lda" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="artm" type="PythonConfigurationType" factoryName="Python">
       <module name="kursovaya" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,6 +304,15 @@
       <workItem from="1558724297160" duration="1813000" />
       <workItem from="1558776070224" duration="5696000" />
       <workItem from="1558782105057" duration="19571000" />
+      <workItem from="1558888562133" duration="3312000" />
+      <workItem from="1558899227454" duration="646000" />
+      <workItem from="1559067344369" duration="56000" />
+      <workItem from="1562336085532" duration="598000" />
+      <workItem from="1562406918152" duration="109000" />
+      <workItem from="1562416890965" duration="678000" />
+      <workItem from="1562432121355" duration="99000" />
+      <workItem from="1562433583087" duration="231000" />
+      <workItem from="1562490387938" duration="692000" />
     </task>
     <task id="LOCAL-00001" summary="убрала лишние импорты">
       <created>1558534752602</created>
@@ -313,7 +325,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144472000" />
+    <option name="totallyTimeSpent" value="150893000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,14 +338,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21503638" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24818109" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.069148935" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.15070923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,8 +370,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="убрала лишние импорты" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/kursovaya$lda.coverage" NAME="lda Coverage Results" MODIFIED="1558814961485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
-    <SUITE FILE_PATH="coverage/kursovaya$artm.coverage" NAME="lda Coverage Results" MODIFIED="1555839200190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/kursovaya$lda.coverage" NAME="lda Coverage Results" MODIFIED="1558899243717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/kursovaya$artm.coverage" NAME="artm Coverage Results" MODIFIED="1562432163239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/trying/Initial_texts/10.txt">
@@ -500,9 +511,7 @@
     <entry file="file://$PROJECT_DIR$/venv/..DESKTOP-I20MV88.lenab.log.INFO.20190523-224533.6340" />
     <entry file="file://$PROJECT_DIR$/venv/(Чю.DESKTOP-I20MV88.lenab.log.ERROR.20190524-192539.14424" />
     <entry file="file://$PROJECT_DIR$/venv/..DESKTOP-I20MV88.lenab.log.INFO.20190524-233701.11084" />
-    <entry file="file://$PROJECT_DIR$/venv/иЪѕ.DESKTOP-I20MV88.lenab.log.ERROR.20190524-192501.3936">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/иЪѕ.DESKTOP-I20MV88.lenab.log.ERROR.20190524-192501.3936" />
     <entry file="file://$PROJECT_DIR$/venv/ready_data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14790" />
@@ -515,52 +524,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ШХў.DESKTOP-I20MV88.lenab.log.WARNING.20190525-191458.15024">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/..DESKTOP-I20MV88.lenab.log.INFO.20190525-194530.18148">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1683" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ШХў.DESKTOP-I20MV88.lenab.log.WARNING.20190525-191458.15024" />
+    <entry file="file://$PROJECT_DIR$/venv/..DESKTOP-I20MV88.lenab.log.INFO.20190525-194530.18148" />
     <entry file="file://$PROJECT_DIR$/venv/trying/prepared_data.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/preparing_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="31" column="68" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="68" />
-          <folding>
-            <element signature="e#46#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/trying/vowpal_wabbit_news.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/trying/prepearing_text_for_artm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-          <folding>
-            <element signature="e#46#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/texts_713664710.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/topics.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/vk_batches/dictionary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="286" column="57" selection-start-line="286" selection-start-column="57" selection-end-line="286" selection-end-column="57" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/trying/lda_artm_model.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -569,10 +545,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/vk_batches/dictionary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="773" column="55" selection-start-line="773" selection-start-column="55" selection-end-line="773" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/trying/prepearing_text_for_artm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/preparing_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/artm_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="70" column="39" lean-forward="true" selection-start-line="70" selection-start-column="39" selection-end-line="70" selection-end-column="39" />
+        <state relative-caret-position="-28">
+          <caret line="50" column="40" lean-forward="true" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
           <folding>
             <element signature="e#46#57#0" expanded="true" />
           </folding>
