@@ -1,6 +1,6 @@
-# Реализация модуля тематического моделирования
-Курсовая работа, в ходе которой были изучены
-- математические основы и практические приложения тематического моделирования
+# Topic modelling module implementation
+Therm paper where I learnt:
+- mathematical basics and practical applications of topic modelling
 - Python API BigARTM
 
-В результате был разработан модуль для анализа тематик постов в социальных сетях.
+Result is an implementation of a module which analyses topics of posts in a social network.
